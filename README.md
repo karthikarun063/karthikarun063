@@ -6,7 +6,7 @@ I am a passionate full-stack developer with a background in **Electronics and Co
 - 🔭 I’m currently working on **Full-Stack Development Projects** using technologies like **Node.js, React, Angular, Python, Django** and **MySQL**.
 - 🌱 I’m currently learning **Node.js** and **5G technologies**.
 - 💬 Ask me about **JavaScript, Node.js, React, Python**, or **web development**.
-- 📫 How to reach me: [Email](mailto:karthikarun063@gmail.com) or [LinkedIn](https://www.linkedin.com/in/arunkarthikb/)
+- 📫 How to reach me: [Email](mailto:karthikarun063@gmail.com) or [LinkedIn](https://www.linkedin.com/in/arun-karthik-b-0376b01b3/)
 - ⚡ Fun fact: I’m passionate about exploring **IoT**, **cloud computing**, and building innovative solutions that help bridge technology with real-world applications.
 
 ## 💻 Tech Stack:
