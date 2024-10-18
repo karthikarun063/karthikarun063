@@ -51,5 +51,11 @@ I am a passionate full-stack developer with a background in **Electronics and Co
 - [LinkedIn](https://www.linkedin.com/in/arun-karthik-b-0376b01b3/)
 
 ---
+## Support Me
+
+If you like my work and would like to support me, you can buy me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoffee.com/karthikarun)
+
 
 *Thanks for visiting my GitHub profile! Feel free to check out my repositories and connect with me on LinkedIn!*
